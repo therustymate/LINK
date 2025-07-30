@@ -1,0 +1,160 @@
+2025-07-30 21:59:29,934	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 21:59:29,937	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 21:59:30,496	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 21:59:30,497	INFO	SERVER: STARTED
+2025-07-30 21:59:44,968	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 21:59:44,969	INFO	CLIENT: STARTED
+2025-07-30 21:59:46,835	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 21:59:46,836	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 21:59:46,836	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 21:59:46,837	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 21:59:53,345	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 21:59:53,348	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 21:59:53,349	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 21:59:53,351	INFO	SERVER: STARTED
+2025-07-30 21:59:53,608	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 21:59:53,612	INFO	CLIENT: STARTED
+2025-07-30 22:00:01,017	INFO	CLIENT: IN Data transfer
+2025-07-30 22:00:01,017	INFO	SERVER: Data verified [762ee37e35c378ef822b4f6e290fc9e64b94d5e43f1b6aa96bda7103]
+2025-07-30 22:00:01,017	INFO	SERVER: OUT Data transfer
+2025-07-30 22:00:23,967	INFO	CLIENT: IN Data transfer
+2025-07-30 22:00:23,968	INFO	SERVER: Data verified [0c4ac8fb3004a6397c110c5b34d22eb34c2267b93ba648d230b62944]
+2025-07-30 22:00:23,968	INFO	SERVER: OUT Data transfer
+2025-07-30 22:00:32,361	INFO	CLIENT: IN Data transfer
+2025-07-30 22:00:32,361	INFO	SERVER: Data verified [de44afebb8f48698edef50cb9b1ebed17103f2cee35868a7cc8be96b]
+2025-07-30 22:00:32,362	INFO	SERVER: OUT Data transfer
+2025-07-30 22:00:43,562	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:00:43,563	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:00:43,563	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:00:43,565	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:02:09,639	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:02:09,644	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:02:09,645	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:02:09,646	INFO	SERVER: STARTED
+2025-07-30 22:02:09,735	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:02:09,737	INFO	CLIENT: STARTED
+2025-07-30 22:02:12,990	INFO	CLIENT: IN Data transfer
+2025-07-30 22:02:12,990	INFO	SERVER: Data verified [349a6d1b93ab3e93b1719e45cdb02d3a0499d90f181af24c597a8fbc]
+2025-07-30 22:02:12,990	INFO	SERVER: OUT Data transfer
+2025-07-30 22:02:24,402	INFO	CLIENT: IN Data transfer
+2025-07-30 22:02:24,402	INFO	SERVER: Data verified [7953e7665930acefe48aba91ae53271f29acaacd0e13b992a69c3909]
+2025-07-30 22:02:24,402	INFO	SERVER: OUT Data transfer
+2025-07-30 22:02:26,777	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:02:26,777	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:02:30,695	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:02:30,698	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:02:30,699	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:02:30,701	INFO	SERVER: STARTED
+2025-07-30 22:02:30,839	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:02:30,842	INFO	CLIENT: STARTED
+2025-07-30 22:02:37,309	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:02:37,309	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:02:37,309	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:02:37,310	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:05:27,226	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:05:27,230	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:05:27,231	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:05:27,233	INFO	SERVER: STARTED
+2025-07-30 22:05:27,239	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:05:27,240	INFO	CLIENT: STARTED
+2025-07-30 22:05:53,675	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:05:53,676	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:06:12,731	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:06:12,734	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:06:13,300	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:06:13,302	INFO	SERVER: STARTED
+2025-07-30 22:06:13,338	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:06:13,339	INFO	CLIENT: STARTED
+2025-07-30 22:06:19,998	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:06:19,999	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:06:26,469	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:06:26,473	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:06:26,474	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:06:26,476	INFO	SERVER: STARTED
+2025-07-30 22:06:26,482	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:06:26,484	INFO	CLIENT: STARTED
+2025-07-30 22:06:39,935	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:06:39,936	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:06:55,215	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:06:55,218	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:06:55,219	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:06:55,220	INFO	SERVER: STARTED
+2025-07-30 22:07:18,939	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:07:18,940	ERROR	SERVER: [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-30 22:08:25,747	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:08:25,750	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:08:33,399	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:08:33,403	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:08:33,404	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:08:33,405	INFO	SERVER: STARTED
+2025-07-30 22:08:36,036	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:08:36,036	ERROR	SERVER: [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-30 22:13:57,158	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:13:57,163	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:13:57,164	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:13:57,165	INFO	SERVER: STARTED
+2025-07-30 22:13:57,286	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:13:57,287	INFO	CLIENT: STARTED
+2025-07-30 22:14:05,058	INFO	CLIENT: IN Data transfer
+2025-07-30 22:14:05,058	INFO	SERVER: Data verified [9de9b97b139f90b3cbe57a170e014addd481d725f9688752c73af481]
+2025-07-30 22:14:05,059	INFO	SERVER: OUT Data transfer
+2025-07-30 22:14:11,360	INFO	CLIENT: IN Data transfer
+2025-07-30 22:14:11,361	INFO	SERVER: Data verified [25b3d362dc2a07b0b36f953c179bb799d4d107e0ba078e08025e93d6]
+2025-07-30 22:14:11,361	INFO	SERVER: OUT Data transfer
+2025-07-30 22:14:13,960	INFO	CLIENT: IN Data transfer
+2025-07-30 22:14:13,960	INFO	SERVER: Data verified [c537fa7b2632482c5c11c2a30189a3884c081cf2ffba9635f6fda8f7]
+2025-07-30 22:14:13,961	INFO	SERVER: OUT Data transfer
+2025-07-30 22:14:15,467	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:14:15,467	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:14:15,467	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:14:15,468	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:14:28,013	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:14:28,016	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:14:28,304	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:14:28,306	INFO	CLIENT: STARTED
+2025-07-30 22:14:31,569	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:14:31,569	ERROR	CLIENT: [WinError 10038] An operation was attempted on something that is not a socket
+2025-07-30 22:17:06,197	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:17:06,201	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:17:06,202	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:17:06,203	INFO	SERVER: STARTED
+2025-07-30 22:17:26,638	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:17:26,639	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:17:34,261	INFO	CLIENT: IN Bind 192.168.68.105:80
+2025-07-30 22:17:34,266	INFO	SERVER: IN Bind 192.168.68.105:80
+2025-07-30 22:31:14,910	INFO	CLIENT: IN Bind 192.168.68.105:9999
+2025-07-30 22:31:14,913	INFO	SERVER: IN Bind 192.168.68.105:9999
+2025-07-30 22:31:14,914	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 22:31:14,915	INFO	SERVER: STARTED
+2025-07-30 22:31:15,125	INFO	CLIENT: OUT Bind localhost:1234
+2025-07-30 22:31:15,129	INFO	CLIENT: STARTED
+2025-07-30 22:31:22,580	INFO	CLIENT: IN Data transfer
+2025-07-30 22:31:22,581	INFO	SERVER: Data verified [d172658c67f29578e767335e6d0e4a4db7f773f73e0421c9dc72128f]
+2025-07-30 22:31:22,581	INFO	SERVER: OUT Data transfer
+2025-07-30 22:31:28,398	INFO	CLIENT: IN Data transfer
+2025-07-30 22:31:28,398	INFO	SERVER: Data verified [fb9ded3912c0811cf19ee0fde7c2116d101cae1530d2b91c3fc54578]
+2025-07-30 22:31:28,398	INFO	SERVER: OUT Data transfer
+2025-07-30 22:31:29,839	INFO	CLIENT: IN Data transfer
+2025-07-30 22:31:29,840	INFO	SERVER: Data verified [d172658c67f29578e767335e6d0e4a4db7f773f73e0421c9dc72128f]
+2025-07-30 22:31:29,840	INFO	SERVER: OUT Data transfer
+2025-07-30 22:31:34,325	ERROR	CLIENT: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 22:31:34,326	ERROR	CLIENT: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:31:34,327	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 22:41:32,178	INFO	CLIENT: IN Bind localhost:9998
+2025-07-30 22:41:38,533	INFO	CLIENT: IN Bind localhost:9998
+2025-07-30 22:43:29,301	CRITICAL	CLIENT: Invalid server key
+2025-07-30 22:43:38,462	CRITICAL	CLIENT: Invalid server key
+2025-07-30 22:43:58,732	CRITICAL	CLIENT: Invalid server key
+2025-07-30 23:56:30,108	CRITICAL	CLIENT: Invalid server key
+2025-07-30 23:57:21,923	INFO	CLIENT: IN Bind localhost:9998
+2025-07-30 23:57:21,931	INFO	SERVER: IN Bind localhost:9999
+2025-07-30 23:57:21,932	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 23:57:21,933	INFO	SERVER: STARTED
+2025-07-30 23:57:50,887	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-30 23:57:50,888	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-07-30 23:59:10,294	INFO	CLIENT: IN Bind localhost:9998
+2025-07-30 23:59:10,302	INFO	SERVER: IN Bind localhost:9999
+2025-07-30 23:59:10,860	INFO	SERVER: OUT Bind localhost:8080
+2025-07-30 23:59:10,861	INFO	SERVER: STARTED
+2025-07-31 00:00:03,135	ERROR	SERVER: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-07-31 00:00:03,136	ERROR	SERVER: [WinError 10053] An established connection was aborted by the software in your host machine
